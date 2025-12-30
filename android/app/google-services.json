@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "743093099881",
+    "firebase_url": "https://umgc-aio-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "umgc-aio",
+    "storage_bucket": "umgc-aio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743093099881:android:4ba53c61014727afea31f8",
+        "android_client_info": {
+          "package_name": "com.umgcambodia.umgkh_mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743093099881-vcijepcpe8mvpvliicmit934d0tidckj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_QNNrDSpYAPBxdtZuc1nFIBjILrjIG6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743093099881-vcijepcpe8mvpvliicmit934d0tidckj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "743093099881-hd1f6qe9q3u9qtkik423teavtsl9pkk6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.umgcambodia.nenamProd",
+                "app_store_id": "6444603324"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
